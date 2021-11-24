@@ -1,0 +1,2 @@
+(this["webpackJsonpprojeto-cotil"]=this["webpackJsonpprojeto-cotil"]||[]).push([[0],{9:function(t,e,c){"use strict";c.r(e);var n=c(1),o=c.n(n),r=c(3),s=c.n(r),i=c(0);var j=function(){return Object(i.jsx)("h1",{children:"Teste"})};s.a.render(Object(i.jsx)(o.a.StrictMode,{children:Object(i.jsx)(j,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.ba8cc522.chunk.js.map
