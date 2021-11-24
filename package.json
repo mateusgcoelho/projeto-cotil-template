@@ -4,7 +4,6 @@
   "private": false,
   "author": "João Mateus Games Coelho",
   "description": "Template projeto react simples para alunos do cotil!",
-  "license": "Apache-2.0",
   "repository": "mateusgcoelho/projeto-cotil-template",
   "main": "build/index.js",
   "dependencies": {
